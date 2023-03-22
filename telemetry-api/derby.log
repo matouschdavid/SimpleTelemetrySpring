@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Mar 22 15:00:00 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0187-099e-92d3-000001dbe4a8 
+on database directory memory:C:\Projects\FH\6.Sem\Java\SimpleTelemetrySpring\telemetry-api\7049bfbe-d796-4470-bbb0-f81da5e289c1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5e2de80c 
+Loaded from file:/C:/Users/David%20Matousch/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\Projects\FH\6.Sem\Java\SimpleTelemetrySpring\telemetry-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 22 15:00:01 CET 2023:
+Shutting down instance a816c00e-0187-099e-92d3-000001dbe4a8 on database directory memory:C:\Projects\FH\6.Sem\Java\SimpleTelemetrySpring\telemetry-api\7049bfbe-d796-4470-bbb0-f81da5e289c1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5e2de80c 

@@ -1,0 +1,8 @@
+swt6\telemetry\Program.class
+swt6\telemetry\api\exceptions\FindByIdException.class
+swt6\telemetry\api\controller\IncidentRestController.class
+swt6\telemetry\api\config\DbInitializer.class
+swt6\telemetry\api\controller\DetectorRestController.class
+swt6\telemetry\Program$1.class
+swt6\telemetry\api\controller\ApplicationRestController.class
+swt6\telemetry\api\controller\TelemetryDataRestController.class
